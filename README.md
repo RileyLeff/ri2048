@@ -1,6 +1,12 @@
 # 2048 with IMAGES
 
-A 2048 clone which display images instead of number cells.
+Current issues: images don't resize for mobile screens.  Other than that, works fine.  
+
+Playable at www.rileyleff.com/ri2048
+
+# Description
+
+A 2048 clone which display images of my friends instead of number cells.
 
 Inspired from [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
@@ -31,5 +37,5 @@ You can find the same information in the [contributing guide.](https://github.co
 ## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
-## Donations 
+## Donations
 I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1VRtByRZ1iiH8kxzr9uQaKKDyG3X7EaqP`. Thank you very much!
