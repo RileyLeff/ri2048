@@ -403,6 +403,19 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 0px; } }
+
+    .tile.tile-4096 .tile-inner {
+          color: #f9f6f2;
+          background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
+          background-image: url('../img/4096.png');
+          background-size: 100%;
+          background-repeat: no-repeat;
+          background-position: right top;
+          box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
+          font-size: 0px; }
+          @media screen and (max-width: 520px) {
+            .tile.tile-4096 .tile-inner {
+              font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: none repeat scroll 0% 0% rgba(238, 228, 218, 0.35);
