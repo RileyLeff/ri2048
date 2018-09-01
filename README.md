@@ -1,8 +1,6 @@
-# 2048 with IMAGES
+# 2048 with images of Riley's friends
 
-Current issues: images don't resize for mobile screens.  Other than that, works fine.  
-
-Playable at www.rileyleff.com/ri2048
+Playable at www.rileyleff.com/ri2048!
 
 # Description
 
